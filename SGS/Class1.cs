@@ -10,7 +10,7 @@ namespace SGS
     {
         public Class1()
         {
-
+             
         }
     }
 }
